@@ -16,7 +16,7 @@ distribution's package management system, but you can also download it from the 
 https://nodejs.org/ .
 
 Then you need to use NPM to install nCoda's JavaScript dependencies. If this works, it's two simple
-commands. From the nCoda root directory, run:
+commands. From the julius directory, run:
 
     $ npm install
     $ npm dedupe
